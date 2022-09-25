@@ -20,8 +20,8 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 - [Pixel Experience Plus 12.1 v413](https://github.com/ponces/treble_build_pe/releases/tag/v413-plus) by [Ponces](https://github.com/ponces) (GSI)
 
 ## Credits
-- Filled Icons by [TeamFiles](https://github.com/TeamFiles "Team Files")
-- Line Icons by [Lawnchair Team](https://github.com/LawnchairLauncher/lawnicons "Lawnchair News")
+- Filled Icons by [RKBDI](https://github.com/RadekBledowski "RKBDI")
+- Line Icons by [Puffercat](https://github.com/KZacharski/PufferIcons "Puffercat")
 
 ## Screenshots
 ![](/gitimages/readmeimage.png)
